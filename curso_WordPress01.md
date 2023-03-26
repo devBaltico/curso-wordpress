@@ -30,12 +30,3 @@
 * [Essential Addons for Elementor](https://ve.wordpress.org/plugins/essential-addons-for-elementor-lite/)
 
 * [Duplicator](https://ve.wordpress.org/plugins/duplicator/)
-
-### Instalaciones adicionales
-
-* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-
-* [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
-
-# Wallpapers que uso
-[Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
