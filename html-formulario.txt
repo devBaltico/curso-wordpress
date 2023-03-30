@@ -1,0 +1,31 @@
+
+Código que debes pegar en la casilla de formulario página de contacto:
+
+Acepto la <a href="https://www.yogaconalegria.com/politica-de-privacidad/" rel="nofollow" target="_blank">Política de Privacidad</a>
+
+Códigos CSS:
+
+/* Quita el margen de la home */
+.ast-plain-container.ast-no-sidebar #primary {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.woocommerce a.button {
+		background-color: transparent;
+    text-transform: none; /* Quitar mayúsculas */
+    font-size: 18px;        /* Tamaño fuente, puede ser también en EM*/
+    border-width: 2px;    /* Ancho del borde */
+}
+
+/* Borde superior de las imágenes en el grid de posts. */
+.uagb-post-grid .uagb-post__image img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+/* Añade margen en la página de finalizar compra */
+.ast-single-post .entry-title, .ast-single-post .entry-title a {
+    line-height: 1.2;
+    margin-top: 30px;
+}
